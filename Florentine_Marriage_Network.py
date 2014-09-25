@@ -46,3 +46,6 @@ edge_list = [(1,2),
          (14,15)]
 
 G.add_edges_from(edge_list)
+
+print(nx.info(G))
+print('diameter = ', nx.diameter(G))
