@@ -1,3 +1,11 @@
+'''
+Florentine_Marriage_Network
+Powered by Mehdi Fatemi (@mefatemi)
+September 25, 2014
+Free to use/distribute for educational purposes.
+Copyright (R) Mehdi Fatemi
+'''
+
 import networkx as nx
 import numpy as np
 

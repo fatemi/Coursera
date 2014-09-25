@@ -1,3 +1,12 @@
+'''
+26KeroGephiFileClean
+Powered by Mehdi Fatemi (@mefatemi)
+September 25, 2014
+Free to use/distribute for educational purposes.
+Copyright (R) Mehdi Fatemi
+'''
+
+
 # if required change your current directory:
 # import os
 # os.chdir('/Users/mehdifatemi/Dropbox/Python/NetworkX/Coursera/')
