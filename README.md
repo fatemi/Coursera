@@ -12,6 +12,8 @@ The course website: https://class.coursera.org/networksonline-003
 
 Course forum: https://class.coursera.org/networksonline-003/forum
 
+Tutorial: https://class.coursera.org/networksonline-003/forum/thread?thread_id=41
+
 --
 
 Python: https://www.python.org
